@@ -1,0 +1,20 @@
+#######################################
+# Syntax Coloring Map
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Gyro	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+readEuler	KEYWORD2
+readYPR	KEYWORD2
+bootUp KEYWORD2
+readWorldAccel	KEYWORD2
+readAccel	KEYWORD2
+checkFIFOOverFlow KEYWORD2
+GyroRead KEYWORD2
